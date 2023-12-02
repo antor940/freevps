@@ -1,6 +1,5 @@
-```markdown
-# Minecraft Server Hosting Panel with PUFFER PANEL
-```
+## How to make a vps/rdp || Minecraft Server Hosting Panel with PUFFER PANEL
+
 ## All video link:
 ```
 https://antor-official-bot.000webhostapp.com/
