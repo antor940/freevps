@@ -1,7 +1,7 @@
 ```markdown
 # Minecraft Server Hosting Panel with PUFFER PANEL
 
-All video link: https://antor-official-bot.000webhostapp.com/
+All video link: ```https://antor-official-bot.000webhostapp.com/```
 
 Github bio text: 👋 Hello World! I'm [account_name], a passionate Bachelor of Science student 🎓. Exploring the wonders of science and technology 🧪💻.
 
@@ -82,4 +82,3 @@ screen -r playit.gg
 ```
 
 Now, your Minecraft server hosting panel with PUFFER PANEL should be up and running. Enjoy hosting your Mincraft server.
-```
