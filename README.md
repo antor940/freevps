@@ -82,3 +82,4 @@ screen -r playit.gg
 ```
 
 Now, your Minecraft server hosting panel with PUFFER PANEL should be up and running. Enjoy hosting your Mincraft server.
+```
