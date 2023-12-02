@@ -1,14 +1,13 @@
 ```markdown
 # Minecraft Server Hosting Panel with PUFFER PANEL
 
-All video link:
+## All video link:
 ```
 https://antor-official-bot.000webhostapp.com/
-```
-Github bio text:
+
+## Github bio text:
 ```
 👋 Hello World! I'm [account_name], a passionate Bachelor of Science student 🎓. Exploring the wonders of science and technology 🧪💻.
-
 
 This guide will help you set up a Minecraft server hosting panel using PUFFER PANEL on Ubuntu VPS or Azure VPS.
 
