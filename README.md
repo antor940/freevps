@@ -7,7 +7,7 @@ https://antor-official-bot.000webhostapp.com/
 
 ## Student ID Card:
 ```
-https://www.canva.com/design/DAF2YIfdxYA/phfefAeEYM5n1CACmTTVFA/view?utm_content=DAF2YIfdxYA&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.canva.com/design/DAF2YIfdxYA/We_b8VeAwaeJXFVZLr7d5g/edit?utm_content=DAF2YIfdxYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ```
 
 ## Github bio text:
