@@ -4,6 +4,12 @@
 ```
 https://antor-official-bot.000webhostapp.com/
 ```
+
+## Student ID Card:
+```
+https://www.canva.com/design/DAF2YIfdxYA/phfefAeEYM5n1CACmTTVFA/view?utm_content=DAF2YIfdxYA&utm_campaign=designshare&utm_medium=link&utm_source=editor
+```
+
 ## Github bio text:
 ```
 👋 Hello World! I'm [account_name], a passionate Bachelor of Science student 🎓. Exploring the wonders of science and technology 🧪💻.
