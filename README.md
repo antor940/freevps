@@ -85,7 +85,9 @@ Open Chrome and navigate to `http://your-vps-ip:8080/`.
 ## Step 8: Run your Minecraft server
 
 ```
-https://playit.gg/support/run-on-linux/
+wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.0/playit-linux-amd64
+chmod +x playit-linux-amd64
+./playit-linux-amd64
 ```
 
 Now, your Minecraft server hosting panel with PUFFER PANEL should be up and running. Enjoy hosting your Mincraft server.
