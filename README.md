@@ -58,8 +58,7 @@ This guide will help you set up a Minecraft server hosting panel using PUFFER PA
 ## Step 4: Run the following commands
 
 ```bash
-sudo -s
-apt update && apt upgrade && apt install curl && apt install systemctl && apt install docker && sudo apt install playit
+sudo -s && apt update && apt upgrade && apt install curl && apt install systemctl && snap install docker
 ```
 
 ## Step 5: Install PufferPanel
@@ -85,8 +84,8 @@ Open Chrome and navigate to `http://your-vps-ip:8080/`.
 
 ## Step 8: Run your Minecraft server
 
-```bash
-screen -r playit.gg
+```
+https://playit.gg/support/run-on-linux/
 ```
 
 Now, your Minecraft server hosting panel with PUFFER PANEL should be up and running. Enjoy hosting your Mincraft server.
