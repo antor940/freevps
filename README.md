@@ -58,7 +58,12 @@ This guide will help you set up a Minecraft server hosting panel using PUFFER PA
 ## Step 4: Run the following commands
 
 ```bash
-sudo -s && apt update && apt upgrade && apt install curl && apt install systemctl && snap install docker
+sudo -s
+apt update
+apt upgrade
+apt install curl
+apt install systemctl
+snap install docker
 ```
 
 ## Step 5: Install PufferPanel
