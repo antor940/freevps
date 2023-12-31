@@ -68,11 +68,9 @@ snap install docker
 
 ## Step 5: Install PufferPanel
 
-```bash
-curl -s https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh | sudo bash
-apt-get install pufferpanel
-systemctl enable pufferpanel
-systemctl start pufferpanel
+```
+https://docs.pufferpanel.com/en/2.x/installing-docker.html
+https://docs.pufferpanel.com/en/2.x/installing.html
 ```
 
 ## Step 6: Add a user to PufferPanel
