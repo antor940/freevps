@@ -2,7 +2,7 @@
 
 ## All video link:
 ```
-https://antor-official-bot.000webhostapp.com/
+https://pastebin.com/rTAsns5P
 ```
 
 ## Student ID Card:
